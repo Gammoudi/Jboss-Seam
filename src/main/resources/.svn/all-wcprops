@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/java-custom-dev-poc/!svn/ver/112/trunk/jboss-seam-poc/src/main/resources
+END
+import.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/java-custom-dev-poc/!svn/ver/39/trunk/jboss-seam-poc/src/main/resources/import.sql
+END
+messages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-custom-dev-poc/!svn/ver/110/trunk/jboss-seam-poc/src/main/resources/messages_en.properties
+END
+spring-beans-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/java-custom-dev-poc/!svn/ver/89/trunk/jboss-seam-poc/src/main/resources/spring-beans-dao.xml
+END
+spring-transaction-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-custom-dev-poc/!svn/ver/112/trunk/jboss-seam-poc/src/main/resources/spring-transaction-config.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/java-custom-dev-poc/!svn/ver/112/trunk/jboss-seam-poc/src/main/resources/log4j.properties
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/java-custom-dev-poc/!svn/ver/110/trunk/jboss-seam-poc/src/main/resources/messages.properties
+END
+components.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/java-custom-dev-poc/!svn/ver/39/trunk/jboss-seam-poc/src/main/resources/components.properties
+END
+seam.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/java-custom-dev-poc/!svn/ver/39/trunk/jboss-seam-poc/src/main/resources/seam.properties
+END
+messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/java-custom-dev-poc/!svn/ver/110/trunk/jboss-seam-poc/src/main/resources/messages_fr.properties
+END
+spring-beans-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/java-custom-dev-poc/!svn/ver/89/trunk/jboss-seam-poc/src/main/resources/spring-beans-service.xml
+END
+testng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/java-custom-dev-poc/!svn/ver/102/trunk/jboss-seam-poc/src/main/resources/testng.xml
+END

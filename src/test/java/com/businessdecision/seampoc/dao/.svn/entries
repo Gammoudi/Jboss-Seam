@@ -1,0 +1,40 @@
+8
+
+dir
+115
+http://tn.businessdecision.com/java-custom-dev-poc/trunk/jboss-seam-poc/src/test/java/com/businessdecision/seampoc/dao
+http://tn.businessdecision.com/java-custom-dev-poc
+
+
+
+2009-08-25T08:30:00.183078Z
+103
+ngamoudi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+580a3c8c-13aa-4473-9172-408c8c83bde1
+
+EmployeeDaoTest.java
+file
+
+
+
+
+2009-11-06T21:54:14.000000Z
+863ab5f559aba92cbb34492e9ed72b5f
+2009-08-25T08:30:00.183078Z
+103
+ngamoudi
+

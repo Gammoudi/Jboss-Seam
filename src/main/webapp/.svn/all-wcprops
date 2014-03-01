@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/java-custom-dev-poc/!svn/ver/112/trunk/jboss-seam-poc/src/main/webapp
+END
+mail.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/java-custom-dev-poc/!svn/ver/79/trunk/jboss-seam-poc/src/main/webapp/mail.xhtml
+END
+home.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/java-custom-dev-poc/!svn/ver/105/trunk/jboss-seam-poc/src/main/webapp/home.xhtml
+END
+employeeList.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/java-custom-dev-poc/!svn/ver/116/trunk/jboss-seam-poc/src/main/webapp/employeeList.xhtml
+END
+error.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/java-custom-dev-poc/!svn/ver/39/trunk/jboss-seam-poc/src/main/webapp/error.xhtml
+END
+login.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/java-custom-dev-poc/!svn/ver/39/trunk/jboss-seam-poc/src/main/webapp/login.xhtml
+END
+editEmployee.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/java-custom-dev-poc/!svn/ver/109/trunk/jboss-seam-poc/src/main/webapp/editEmployee.xhtml
+END
+emailToEmployee.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/java-custom-dev-poc/!svn/ver/79/trunk/jboss-seam-poc/src/main/webapp/emailToEmployee.xhtml
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/java-custom-dev-poc/!svn/ver/39/trunk/jboss-seam-poc/src/main/webapp/index.html
+END

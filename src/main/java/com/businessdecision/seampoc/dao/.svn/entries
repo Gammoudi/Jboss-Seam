@@ -1,0 +1,67 @@
+8
+
+dir
+115
+http://tn.businessdecision.com/java-custom-dev-poc/trunk/jboss-seam-poc/src/main/java/com/businessdecision/seampoc/dao
+http://tn.businessdecision.com/java-custom-dev-poc
+
+
+
+2009-10-30T15:19:46.582553Z
+112
+ngamoudi
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+580a3c8c-13aa-4473-9172-408c8c83bde1
+
+EmployeeDao.java
+file
+
+
+
+
+2009-11-06T21:54:15.000000Z
+796b5a5c2fbd14ca65d7d92b40af5c26
+2009-08-12T15:33:12.062247Z
+84
+ngamoudi
+
+GenericDao.java
+file
+
+
+
+
+2009-11-06T21:54:14.000000Z
+1ef9d5c7f601f268aa3ba43aaf8debea
+2009-10-30T15:19:46.582553Z
+112
+ngamoudi
+
+UserDao.java
+file
+
+
+
+
+2009-11-06T21:54:15.000000Z
+286531aca18234a4968f1d886d8ad9c5
+2009-08-12T15:33:12.062247Z
+84
+ngamoudi
+
+impl
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/java-custom-dev-poc/!svn/ver/112/trunk/jboss-seam-poc/src/main/java/com/businessdecision/seampoc/model
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/java-custom-dev-poc/!svn/ver/112/trunk/jboss-seam-poc/src/main/java/com/businessdecision/seampoc/model/User.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/java-custom-dev-poc/!svn/ver/86/trunk/jboss-seam-poc/src/main/java/com/businessdecision/seampoc/model/Role.java
+END
+Employee.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/java-custom-dev-poc/!svn/ver/112/trunk/jboss-seam-poc/src/main/java/com/businessdecision/seampoc/model/Employee.java
+END

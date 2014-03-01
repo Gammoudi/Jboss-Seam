@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/java-custom-dev-poc/!svn/ver/112/trunk/jboss-seam-poc/src/main/webapp/WEB-INF
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/java-custom-dev-poc/!svn/ver/116/trunk/jboss-seam-poc/src/main/webapp/WEB-INF/components.xml
+END
+pages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/java-custom-dev-poc/!svn/ver/116/trunk/jboss-seam-poc/src/main/webapp/WEB-INF/pages.xml
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/java-custom-dev-poc/!svn/ver/93/trunk/jboss-seam-poc/src/main/webapp/WEB-INF/faces-config.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/java-custom-dev-poc/!svn/ver/105/trunk/jboss-seam-poc/src/main/webapp/WEB-INF/web.xml
+END
